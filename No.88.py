@@ -1,7 +1,7 @@
 # 88. Merge Sorted Array
 # runtime: 0 ms, faster than 100.00% 
 # memory usage: 12.49 MB, beats 53.31% 
-
+# I spent 30 minutes.
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
         """
